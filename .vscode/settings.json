@@ -1,0 +1,30 @@
+{
+  "files.exclude": {
+    "app/assets": true,
+    "app/controllers/concerns": true,
+    "spec": true,
+    "vendor": true,
+    "public": true,
+    "log": true,
+    "lib": true,
+    "config/puma.rb": true,
+    "app/mailers": true,
+    "app/models/.keep": true,
+    "app/views/layouts": true,
+    "config/environments": true,
+    "config/initializers": true,
+    "config/locales": true,
+    "CONTRIBUTING.md": true,
+    "Gemfile.lock": true,
+    "LICENSE.md": true,
+    "Rakefile": true,
+    ".rspec": true,
+    "db": true,
+    ".learn": true,
+    "config.ru": true,
+    "app/models/concerns": true,
+    "config/boot.rb": true,
+    "config/secrets.yml": true,
+    "config/spring.rb": true
+  }
+}
